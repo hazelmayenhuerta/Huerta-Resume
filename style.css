@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dce8fa;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.center {
+    text-align: center;
+    display:block;
+    padding-top: 40px;
+}
+
+h1{
+    text-align: center;
+}
+
+.a{
+    margin-left: 50px;
+}
+
+.b{
+    margin-left: 50px;
+}
+
+.c{
+    margin-left: 50px;
+}
+
+.d{
+    margin-left: 50px;
+}
+
+.box{
+    border-style: solid;
+    border-color:black;
+    border-width: 5px; 
+}
